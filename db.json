@@ -1,0 +1,28 @@
+{
+  "blog": [
+    {
+      "thumbnail": "./images/Rectangle 5-2.png",
+      "title": "Getting Started with Web Development",
+      "content": "Web deadsdasdsadasdsadasdasd",
+      "id": "1"
+    },
+    {
+      "thumbnail": "./images/Rectangle 5-3.png",
+      "title": "How Git can change your workflow",
+      "content": "adsdasdasdasd",
+      "id": "vKkUnln"
+    },
+    {
+      "thumbnail": "./images/Rectangle 5.png",
+      "title": "Programming isn't easy as they say :(",
+      "content": "adsdasdasdas",
+      "id": "ubKHnt_"
+    },
+    {
+      "thumbnail": "./images/Rectangle 5.png",
+      "title": "Team work is a great option!",
+      "content": "adsdasdasdas",
+      "id": "ZtWM8Q1"
+    }
+  ]
+}
